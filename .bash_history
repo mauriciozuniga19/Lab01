@@ -26,3 +26,14 @@ git config --global user.name "mauricio zuniga19"
 git config –global user.email “andrezuniga120@gmail.com"
 git config --global user.email "andrezuniga120@gmail.com"
 git init
+git add .
+git commit -m “Actualizando el index.html”
+git commit -m "primer commit"
+git branch -M main 
+git remote add origin https://github.com/mauriciozuniga19/Lab01.git
+git push -u origin main
+git remote add origin https://github.com/mauriciozuniga19/Lab01.git
+git push -u origin main
+git flow
+sudo apt-get install git-flow
+git flow init
