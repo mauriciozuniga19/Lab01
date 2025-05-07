@@ -37,3 +37,8 @@ git push -u origin main
 git flow
 sudo apt-get install git-flow
 git flow init
+git add .
+git commit -m
+git commit -m "Agregando cambios antes de iniciar git flow"
+git flow init
+git status
